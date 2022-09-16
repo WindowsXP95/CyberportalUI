@@ -1,0 +1,31 @@
+Setup
+Rib
+Cycle
+Render
+
+`a0
+`32 (-240)
+`33 (164)
+`30 (480)
+`31 (0)
+`37 (Cyberportal)
+`39 (%noDrag%)
+`a-
+`a1
+
+`02 (a) mc (0) (-16) (16) (16)
+`10 (>system.broadcast>interface.kill)
+`03 (a)
+
+`a-
+`a2
+
+`02 (a) mc (0) (-16) (16) (16)
+`10 (>system.broadcast>interface.kill)
+`03 (a)
+
+`a-
+`a3
+`a-
+
+/a:/system/frame/frame.aco

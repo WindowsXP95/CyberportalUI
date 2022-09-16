@@ -1,0 +1,22 @@
+Setup
+Rib
+Cycle
+Render
+
+`a0
+`a-
+`a1
+`a-
+`a2
+`a-
+`a3
+`21 0
+`23 (2) (2) ww - (4) wh - (16)
+
+`04 (a) (10)
+`20 (4) (4) th (17) sc (1)
+`03 (a)
+
+`a-
+
+/a:/programs/terminal/terminal.aco
