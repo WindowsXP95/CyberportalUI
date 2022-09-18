@@ -13,3 +13,5 @@ What It includes
 - An Fresh looking icon pack
 - Cyberportal wallpapers and sounds
 - And way more...
+
+This project is still in its alpha stage
