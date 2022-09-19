@@ -1,11 +1,6 @@
-![](https://github.com/WindowsXP95/CyberportalUI/blob/main/src/Extras/Bootup/cyberportal.png)
+# ![Cyberportal](https://github.com/WindowsXP95/CyberportalUI/blob/main/src/Extras/Bootup/cyberportal.png)
 
-# Welcome to the C Y B Ξ R P Θ R T Λ L generation
-
-
-
-The goal of this project is to make Linux Mint look like a Late 90's desktop environment and to make Cyberportal OS (a Scratch project) a reality.
-
+Cyberportal OS is/was a pretend operating system [on scratch](https://scratch.mit.edu/projects/237030105/) that aimed to have a early 2000s looking interface, inspired by old versions of MacOS and AmigaOS. This repository contains themes that give your linux desktop the same look and feel of the original Cyberportal project.
 
 What It includes
 
