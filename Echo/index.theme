@@ -1,5 +1,5 @@
 [Icon Theme]
-Name=Win2-7 6.0
+Name=Echo
 
 # Import nonexistant icons from default 'gnome' theme
 Inherits=Gnome,Windows,hicolor
