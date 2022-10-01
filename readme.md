@@ -11,4 +11,4 @@ What It includes
 - Cyberportal wallpapers and sounds
 - And way more...
 
-This project is still in its alpha stage
+This project is still in its alpha stage (and is now on hold to focus on my main project)
